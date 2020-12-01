@@ -140,7 +140,7 @@
 
                         <p> <?php echo substr($data->article, 0, 120) ?> </p>
                     </div>
-                    <?php if($this->session->userdata('role') == 1001 || $data->user_id == $this->session->userdata('id')){ ?>
+                    <?php if($this->session->userdata('role') == 2323 || $data->user_id == $this->session->userdata('id')){ ?>
                         <div class="card-footer">
                             <div class="d-flex space-around">
                                 <?php echo anchor('home/update/'.$data->id, 'Update', ['class' => '']); ?>	
