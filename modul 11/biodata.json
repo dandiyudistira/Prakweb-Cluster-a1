@@ -1,0 +1,20 @@
+{
+    "Biodata":{
+        "Nama": "Dandi Yudistira",
+        "NIM": "118140078",
+        "JenisKelamin": "Laki-laki",
+        "Usia":"20",
+        "Saudara":"Tiga",
+        "Hobby":"Bulu Tangkis",
+        "Alamat":{
+            "Desa":"Desa Umbul Natim",
+            "Kecamatan":"Jati Agung",
+            "Kabupaten":"Lampung Selatan"
+        },
+
+        "SocialMedia":{
+            "Facebook":"dandiyudistira",
+            "Instagram":"dandyudistira"
+        }
+    }
+}

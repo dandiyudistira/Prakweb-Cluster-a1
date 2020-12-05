@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Biodata>
+    <Nama>
+        <NamaDepan>Dandi</NamaDepan>
+        <NamaBelakang>Yudistira></NamaBelakang>
+    </Nama>
+
+    <NIM>118140078</NIM>
+    
+    <JenisKelamin>Laki-laki</JenisKelamin>
+
+    <Usia>20</Usia>
+
+    <Saudara>Tiga</Saudara>
+
+    <Hobby>Bulu Tangkis</Hobby>
+
+    <Alamat>
+        <Desa>Desa Umbul Natim</Desa>
+        <Kecamatan>Jati Agung</Kecamatan>
+        <Kabupaten>Lampung Selatan</Kabupaten>
+    </Alamat>
+
+    <SocialMedia>
+        <Facebook>dandiyudistira</Facebook>
+        <Instagram>dandyudistira</Instagram>
+    </SocialMedia>
+</Biodata>
